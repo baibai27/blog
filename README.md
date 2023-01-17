@@ -1,15 +1,13 @@
-**<p align="center">[Leeyom's Blog](https://blog.leeyom.top)</p>**
+**<p align="center">[Nicole's Blog](https://blog.leeyom.top)</p>**
 ====
-
-**<p align="center">用于记录一些幼稚的想法和脑残的瞬间</p>**
+**<p align="center">Some insights and some brain garbage</p>**
 [![](https://raw.githubusercontent.com/superleeyom/blog/main/img/IMG_216.JPEG)](https://blog.leeyom.top)
-
-## 联系方式
-- Twitter：[@super_leeyom](https://twitter.com/super_leeyom)
+## Reach me
 - Telegram：[@super_leeyom](https://t.me/super_leeyom)
-- Email：[leeyomwang@163.com](mailto:leeyomwang@163.com)
+- Email：[nicoleyangyang1128.com](mailto:nicoleyangyang1128@gmail.com)
 - Blog：[https://blog.leeyom.top](https://blog.leeyom.top)
-- RSS：[RSS Feed](https://raw.githubusercontent.com/superleeyom/blog/master/feed.xml)
+- RSS：[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+"""
 ## 最近更新
 - [2022年终总结之我的买房经历](https://github.com/superleeyom/blog/issues/53)--2023-01-08
 - [2023年个人周报](https://github.com/superleeyom/blog/issues/52)--2023-01-03
